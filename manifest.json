@@ -10,8 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Fabric_1.20.2",
-  "author": "",
+  "name": "Vanilla + | Fabric-Modloader",
+  "version": "1.0",
+  "author": "Wolmi59",
   "files": [
     {
       "projectID": 667464,
