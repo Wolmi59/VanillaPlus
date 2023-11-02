@@ -31,3 +31,5 @@ The following mods are included:
 - Iris Shaders
 - Mod Menu
 - Nvidium
+
+To use the modpack, simply download the ZIP file and import the file into the Curse Launcher. 
